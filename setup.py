@@ -9,6 +9,6 @@ setup(
     long_description=open('README.md').read(),
     install_requires=['numpy'],
     url='https://github.com/<coolmikoe>/<mypythonpackage>',
-    author='<mikoe>',
+    author='<Your Name>',
     author_email='<mykerhun@gmail.com>'
 )
